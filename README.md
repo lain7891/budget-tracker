@@ -27,7 +27,7 @@ SO THAT my account balance is accurate when I am traveling
 ## Usage
 
 
-![readme-gif](assets/brudget-tracker.gif)
+![readme-gif](assets/budget-tracker.gif)
 
 <img src="assets/budget1.png" width="800" height="600"/>
 <img src="assets/budget.png" width="800" height="600"/>
